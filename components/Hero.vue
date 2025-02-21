@@ -1,10 +1,6 @@
 <template>
   <div class="hero" id="hero">
-    <img src="../assets/logo.svg" class="header-logo">
-    <!-- <div class="webbu">
-      <img src="../assets/icons/webbu.png" class="header-logo">
-      <p> Hackathon</p>
-    </div> -->
+    <img src="../public/icons/logo.svg" class="header-logo">
   </div>
 </template>
 

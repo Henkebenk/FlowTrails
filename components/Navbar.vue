@@ -2,7 +2,7 @@
 <template>
   <div id="navbar">
     <div id="links">
-        <img src="../assets/logo.svg">
+        <img src="../public/icons/logo.svg">
         <a href="#hero">Hero</a>
         <a href="#game">The Game</a>
         <a href ="#about">About</a>
@@ -14,16 +14,6 @@
 export default {
   name: "Hero"
 };
-
-window.onscroll = function() {scrollFunction()};
-
-function scrollFunction() {
-  if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 400) {
-    document.getElementById("navbar").style.top = "0";
-  } else {
-    document.getElementById("navbar").style.top = "-100px";
-  }
-}
 </script>
 
 <style scoped>

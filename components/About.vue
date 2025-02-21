@@ -63,11 +63,11 @@
   <div>
     <h2>The technical stuff</h2>
     <div class="icons">
-      <img src="../assets/icons/blender-software.svg">
-      <img src="../assets/icons/godot.svg">
-      <img src="../assets/icons/webgl.svg">
-      <img src="../assets/icons/vue-js.svg">
-      <img src="../assets/icons/inkscape.svg">
+      <img src="../public/icons/blender-software.svg">
+      <img src="../public/icons/godot.svg">
+      <img src="../public/icons/webgl.svg">
+      <img src="../public/icons/vue-js.svg">
+      <img src="../public/icons/inkscape.svg">
     </div>
   </div>
     
