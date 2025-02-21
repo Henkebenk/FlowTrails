@@ -1,0 +1,46 @@
+@import './base.css';
+
+#app {
+  
+  /* font-family: "Varela Round", serif;
+  font-weight: 400;
+  font-style: normal; */
+  font-family: "Lilita One", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 36px;
+  color: #242527;
+}
+
+p{
+  margin:0;
+  color: #434649;
+}
+
+h1 {
+  margin:0;
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin:0;
+  margin-bottom: 20px;
+}
+
+body{
+  margin:0;
+}
+
+main {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.fullScreen {
+  width: 100vh;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
