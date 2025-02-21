@@ -25,6 +25,10 @@ export default {
 </script>
 
 <template>
+  <Head>
+    <Title>FlowTrails</Title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </Head>
   <header>
     <Navbar />
   </header>
